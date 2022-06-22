@@ -8,7 +8,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
-This repository contains a file run_analysis.R that:
+# This repository contains a file run_analysis.R that:
 
   1.  Merges the training and the test sets to create one data set.
 
